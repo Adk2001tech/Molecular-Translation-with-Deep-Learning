@@ -1,6 +1,9 @@
 # Molecular-Translation-with-Deep-Learning
 Translate Chemical Images to text (IUPAC International Chemical Identification)
 
+<img src="https://user-images.githubusercontent.com/64481847/117980206-584b8800-b351-11eb-9a87-f12e9b2f14a1.png" width="600">
+
+
 ## Reference
 * https://www.kaggle.com/c/bms-molecular-translation
 * https://www.tensorflow.org/tutorials/text/image_captioning
